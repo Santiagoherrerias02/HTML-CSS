@@ -5,6 +5,11 @@
     color:#84482D;
     text-align: center;
 }
+.parrafos{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
 p{
     font-size: 18px;
     color:#1C1D1F;
