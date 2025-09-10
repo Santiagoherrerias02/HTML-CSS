@@ -1,6 +1,8 @@
-
+body{
+    background-color:lightblue;
+}
 .titulo{
-    color:#84482D;
+    color:#000000;
     text-align: center;
 }
 .parrafos{
@@ -17,7 +19,7 @@ p{
 .imagenes{
     display: flex;
     justify-content:space-around;
-    border: 2px solid #BE6841;
+    border: 2px solid #0015ff;
     padding: 20px;
     margin:20px 20px 20px 20px ;
 }
